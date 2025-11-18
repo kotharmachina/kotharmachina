@@ -1,4 +1,4 @@
-## Hi there 👋
+Current Focus: Engineering a 64-bit fantasy console architecture from scratch in Rust.
 
 <!--
 **kotharmachina/kotharmachina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
